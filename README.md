@@ -6,7 +6,7 @@ https://github.com/kakaobrain/kor-nlu-datasets/tree/master
 <br>
 
 ## 대응 기준
-- 대척점:  `most_similar()`에서 음(negative) 방향으로 가장 큰 것
+- 대척점:  `most_similar()`에서 음(negative)의 방향으로 가장 큰 것
 
 <br>
 
