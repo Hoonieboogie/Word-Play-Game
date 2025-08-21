@@ -12,7 +12,11 @@ https://github.com/kakaobrain/kor-nlu-datasets/tree/master
 
 ## 실행 결과 화면
 - 결과 1
+  
 ![result_1](game_result/game_result1.png)
 
+<br>
+
 - 결과 2
+
 ![result_2](game_result/game_result2.png)
